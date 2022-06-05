@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite Feed" title="Ignite Feed"  width="220px" />
+ Ignite Feed - (Chapter 01)     
 </h1>
 
 <p align="center">
