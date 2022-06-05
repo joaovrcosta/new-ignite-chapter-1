@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="![App name](https://user-images.githubusercontent.com/70654718/172029732-744aa46b-938d-4241-a0d4-bcdc4c304e36.png)" width="220px" />
+    <img alt="Ignite Feed" title="Ignite Feed" src={![App name](https://user-images.githubusercontent.com/70654718/172029732-744aa46b-938d-4241-a0d4-bcdc4c304e36.png)} width="220px" />
 </h1>
 
 <p align="center">
